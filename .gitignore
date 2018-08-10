@@ -25,6 +25,7 @@ wheels/
 *.egg
 *.pyc
 ~*
+*~
 *.orig
 *.pyo
 .idea/
